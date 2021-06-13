@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fansuy444.github.io</id>
     <title>The繁肃y</title>
-    <updated>2021-06-13T16:06:01.720Z</updated>
+    <updated>2021-06-13T19:52:54.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fansuy444.github.io"/>
     <link rel="self" href="https://fansuy444.github.io/atom.xml"/>
@@ -10,4 +10,27 @@
     <logo>https://fansuy444.github.io/images/avatar.png</logo>
     <icon>https://fansuy444.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, The繁肃y</rights>
+    <entry>
+        <title type="html"><![CDATA[新の繁肃！]]></title>
+        <id>https://fansuy444.github.io/post/xin-nofan-su/</id>
+        <link href="https://fansuy444.github.io/post/xin-nofan-su/">
+        </link>
+        <updated>2021-06-13T15:57:10.000Z</updated>
+        <content type="html"><![CDATA[<p>首先：<br>
+#2021年6月13日<br>
+是fansuy444的创造日！<br>
+当然名字是乱拼的<br>
+不过不重要<br>
+我将fansuy444作为我的个人感想博客<br>
+当然也没有人看<br>
+不过我更多是带给我自己发泄的小圈地<br>
+简简单单<br>
+我并不想搞太复杂<br>
+并且我也不会<br>
+用于记录我自己经历并有意思的事<br>
+我也会安利我喜欢的动画，歌曲什么的<br>
+就这样<br>
+以后可能补充吧</p>
+]]></content>
+    </entry>
 </feed>
